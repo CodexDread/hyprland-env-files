@@ -1,0 +1,17 @@
+[2025-10-30 20:30:51.171] [info]  MAIN: Process starting...
+[2025-10-30 20:30:51.180] [info]  MAIN: Application version 24.1.5
+[2025-10-30 20:30:51.184] [info]  MAIN: ...Process started
+[2025-10-30 20:30:51.417] [info]  MAIN: App ready
+[2025-10-30 20:30:52.669] [info]  RENDER: Process starting...
+[2025-10-30 20:30:52.670] [info]  RENDER: License validity: false
+[2025-10-30 20:30:52.671] [info]  MAIN: Show license
+[2025-10-30 20:30:52.835] [info]  LICENSE: Process starting...
+[2025-10-30 20:30:52.836] [info]  LICENSE: Workflow starting...
+[2025-10-30 20:30:52.836] [info]  LICENSE: ... Workflow started
+[2025-10-30 20:30:52.838] [info]  LICENSE: ... Process started
+[2025-10-30 20:30:52.891] [info]  MAIN: License window loaded
+[2025-10-30 20:33:33.252] [info]  RENDER: Process starting...
+[2025-10-30 20:33:33.444] [info]  RENDER: License validity: true
+[2025-10-30 20:33:34.019] [info]  RENDER: ... Process started
+[2025-10-30 20:33:34.084] [info]  MAIN: Main window loaded
+[2025-10-30 20:39:48.744] [info]  MAIN: License window closed

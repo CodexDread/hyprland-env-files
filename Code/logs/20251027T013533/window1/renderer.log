@@ -1,0 +1,5 @@
+2025-10-27 01:35:33.864 [info] Started local extension host with pid 126046.
+2025-10-27 01:35:34.532 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-27 01:35:34.584 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-27 01:35:36.579 [info] [perf] Render performance baseline is 20ms
+2025-10-27 01:38:49.158 [error] [text file model] handleSaveError(52) - exit - resulted in a save error: Error: Unable to write file '/etc/fstab' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/fstab') file:///etc/fstab
