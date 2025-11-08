@@ -1,1 +1,4 @@
 2025-11-08 16:46:36.349 [info] Log level: Info
+2025-11-08 17:06:04.029 [info] Log level: Info
+2025-11-08 17:06:04.053 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-11-08 17:06:07.587 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for CodexDread/hyprland-env-files: Error: No GitHub authentication session available.

@@ -16,7 +16,7 @@
     "spacing": 5, // Gaps between modules (4px)
 
     "modules-left": [
-        "custom/rofi"
+        //"custom/rofi"
         //"hyprland/workspaces",
         //"hyprland/submap",
         //"temperature",

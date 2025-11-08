@@ -9,3 +9,7 @@
 2025-11-08 16:46:36.189 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
 2025-11-08 16:46:36.297 [info] Settings Sync: Account status changed from uninitialized to unavailable
 2025-11-08 16:46:38.433 [info] [perf] Render performance baseline is 20ms
+2025-11-08 17:06:03.173 [info] Started local extension host with pid 52053.
+2025-11-08 17:06:03.801 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-08 17:06:03.889 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-08 17:06:05.974 [info] [perf] Render performance baseline is 20ms

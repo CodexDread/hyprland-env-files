@@ -57,7 +57,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/null/.config/Code/Backups/1762234931723",
+            "folder": "file:///home/null/.config",
+            "backupPath": "/home/null/.config/Code/Backups/14f220f20e54d8f8c8d46688d4e674d8",
             "uiState": {
                 "mode": 0,
                 "x": 0,
